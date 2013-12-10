@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBarPestanyes</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_save">Save</string>
+    <string name="action_search">Search</string>
+    <string name="nom">Nom</string>
+    <string name="cognom">Cognom</string>
+    <string name="password">Password</string>
+    <string name="repassword">Repeteix Password</string>
+    <string name="Switch">Animal de Companyia</string>
+    <string name="gos">Gos</string>
+    <string name="gat">Gat</string>
+    <string name="reptil">Reptil</string>
+    <string name="accepta">Accepta les condicions</string>
+
+</resources>
